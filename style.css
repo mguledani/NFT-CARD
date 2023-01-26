@@ -1,0 +1,17 @@
+h1 {
+    color:#FFFFFF;
+    cursor: pointer;
+    font-size:22px;
+
+}
+h1:hover{
+    color:#00FFF8;
+ 
+}
+#manu {
+    color:#FFFFFF
+}
+#manu:hover{
+    color:#00FFF8;
+ 
+}
